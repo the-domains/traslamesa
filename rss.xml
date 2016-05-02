@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[traslamesa]]></title>
+        <description><![CDATA[traslamesa]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 May 2016 09:56:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> ¿Qué pasaría si fuera el comensal el encargado de configurar la carta del restaurante? Un hecho extraño a día de hoy, que analizado con detenimiento conlleva menos dificultades de las que puede parecer a primera vista. Un concepto atractivo que con un cierto protocolo puede resultar de enorme interés para los clientes. Ideas singulares y frescas que se encuentran en una de las últimas novedades del panorama foodie de Madrid. Top Ten, un espacio gastronómico versátil y atractivo ubicado en el céntrico barrio de Trafalgar.</p>]]></description>
+            <link>undefinedque-pasaria-si-fuera-el-comensal-el-encargado-de-configura/index.html</link>
+            <guid isPermaLink="false">038e075e-3733-487a-a2ee-37efae14cdcd</guid>
+            <pubDate>Mon, 02 May 2016 09:56:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
