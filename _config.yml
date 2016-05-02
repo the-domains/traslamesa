@@ -1,0 +1,28 @@
+name: traslamesa
+favicon: null
+layout_spectrum: 0.26730345538817346
+typography_spectrum: 0.4363996561150998
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.11508143320679665
+  lightness: 0.7695627675857395
+  saturation: 0.23032180569134653
+  rhythmicContrast: 0.8121232534758747
+purpose: []
